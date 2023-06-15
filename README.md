@@ -1,4 +1,18 @@
-Develop an Application like Cashify
+**Develop an Application like Cashify**
+
+To develop a Django application like Cashify, you will need to use various Django commands and write code to implement the required features. Here are some common Django commands and code snippets that you may find useful:
+
+**Django Commands:**
+
+**Create a new Django project:**
+django-admin startproject cashify_project
+
+**Create a new Django app:**
+python manage.py startapp cashify_app
+
+**Run database migrations:**
+python manage.py makemigrations
+python manage.py migrate
 
 **Description:**
 In this internship task, you will be working on developing an application similar to Cashify, which allows users to sell their used electronic devices. The application will have features for user registration, device listing, transaction handling, and more. You will use the Django web framework and MySQL database to implement the required functionalities.
